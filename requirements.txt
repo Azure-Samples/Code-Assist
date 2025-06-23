@@ -1,0 +1,8 @@
+azure-ai-projects
+azure-identity
+python-dotenv
+python-docx
+python-pptx
+markdown
+beautifulsoup4
+json-repair
