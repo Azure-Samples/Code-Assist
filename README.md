@@ -12,7 +12,7 @@ To use the tool follow these steps:
 
 1. Make sure you have Python (3.12.x) installed on your system
 2. Login using `az login` and select the subscription on which your AI Foundry project is hosted
-3. *(Optional)* Create a virtual machine and activate it 
+3. *(Optional)* Create a virtual environment and activate it 
     - `python -m venv env-name` 
     - `.\env-name\Scripts\Activate.ps1`
 
